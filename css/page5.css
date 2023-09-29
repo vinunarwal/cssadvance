@@ -1,0 +1,48 @@
+div {
+    padding: 5px;
+    margin-top: 100px;
+    margin-left: 60px;
+  }
+  .img1 {
+    float: left;
+    width: 562px;
+    height: 422px;
+    flex-shrink: 0;
+  }
+  .clearfix::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
+  p{
+    color: rgb(41, 41, 140);
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;  
+    margin-left: 600px;
+  }
+  h1{
+    font-family: Roboto;
+    font-size: 36px; 
+    font-weight: 500;
+    line-height: 48px;
+    margin-top: 50px;
+    margin-left: 600px;
+  }
+  #button{
+    font-family: Roboto;
+    font-size: 14px;
+    font-weight: 500;
+    border: none;
+    background-color: rgb(15, 12, 46);
+    border-radius: 4px;
+    color: white;
+    padding: 10px 30px;
+    width: 160px;
+    line-height: 24px; 
+    margin-left: 40px;
+    }
+    
+    
+  

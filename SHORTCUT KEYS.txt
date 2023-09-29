@@ -1,0 +1,7 @@
+                                    SHORTCUT KEYS: 
+
+1.   windows + h           : Voice typing
+2.   windows + .           : Emoji
+3.   windows + shift + s   : For screenshot of selected area
+4.   windows + alt + R     : Screen Recording
+5.   windows + v           : Clipboard

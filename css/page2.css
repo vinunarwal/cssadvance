@@ -1,0 +1,41 @@
+div {
+    padding: 5px;
+    margin-top: 100px;
+    margin-left: 100px;
+  }
+  .img1 {
+    float: right;
+    width: 567px;
+    height: 561px;
+    flex-shrink: 0;
+  }
+  .clearfix::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
+  #p{
+    color: rgb(41, 41, 140);
+    font-family: Roboto;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 26px; 
+  }
+  div div{
+    float: left;
+    margin-left:0px;
+    padding: 10px;
+  }
+  h{
+    font-family: Roboto;
+    font-size: 36px; 
+    font-style: normal;
+    font-weight: 500;
+    line-height: 48px;
+  }
+  .icon{
+    width: 36px;
+    height: 36px;
+    flex-shrink: 0;
+  }
